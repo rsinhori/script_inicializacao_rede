@@ -1,0 +1,1 @@
+# script_inicializacao_rede
